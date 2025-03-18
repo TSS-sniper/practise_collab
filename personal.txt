@@ -1,2 +1,2 @@
-name: TSS,Tanmay,Anshika
+name: Anshika
 age: 22
