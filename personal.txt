@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 name: TSS
+=======
+name: Anshika Bhola
+>>>>>>> 6252c7340de3e5e118c3d37732e0913b4bc77bd2
 age: 22
